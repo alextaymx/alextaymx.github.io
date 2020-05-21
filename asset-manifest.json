@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alextaymx.github.io/static/css/main.498d002a.chunk.css",
+    "main.js": "/alextaymx.github.io/static/js/main.6acde643.chunk.js",
+    "main.js.map": "/alextaymx.github.io/static/js/main.6acde643.chunk.js.map",
+    "runtime-main.js": "/alextaymx.github.io/static/js/runtime-main.619a35ca.js",
+    "runtime-main.js.map": "/alextaymx.github.io/static/js/runtime-main.619a35ca.js.map",
+    "static/js/2.b81e2f84.chunk.js": "/alextaymx.github.io/static/js/2.b81e2f84.chunk.js",
+    "static/js/2.b81e2f84.chunk.js.map": "/alextaymx.github.io/static/js/2.b81e2f84.chunk.js.map",
+    "index.html": "/alextaymx.github.io/index.html",
+    "precache-manifest.2c5ba51d16581fa5e73e6d5a80a46fac.js": "/alextaymx.github.io/precache-manifest.2c5ba51d16581fa5e73e6d5a80a46fac.js",
+    "service-worker.js": "/alextaymx.github.io/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/alextaymx.github.io/static/css/main.498d002a.chunk.css.map",
+    "static/js/2.b81e2f84.chunk.js.LICENSE.txt": "/alextaymx.github.io/static/js/2.b81e2f84.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/alextaymx.github.io/static/media/profile.8a396670.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.619a35ca.js",
+    "static/js/2.b81e2f84.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.6acde643.chunk.js"
+  ]
+}
