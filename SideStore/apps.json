@@ -10,7 +10,7 @@
       "contact": {
         "web": "https://github.com/alextaymx/"
       },
-      "downloadURL": "https://files.catbox.moe/iznaea.ipa",
+      "downloadURL": "https://files.catbox.moe/557hkq.ipa",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
       "name": "YTLite + Tweaks",
@@ -22,9 +22,9 @@
       "size": 130097628,
       "subtitle": "A flexible enhancer for YouTube on iOS",
       "tintColor": "e22a41",
-      "version": "20.44.2",
-      "versionDate": "2025-11-05",
-      "versionDescription": "• Updated YouTube to 20.44.2 (latest commits)\n • Tweak is using 5.2b3",
+      "version": "20.10.4",
+      "versionDate": "2025-10-14",
+      "versionDescription": "• Updated YouTube to 20.10.4 (latest commits)\n • Tweak is using 5.2b3",
       "appPermissions": {
         "entitlements": ["com.apple.developer.siri"],
         "privacy": {
@@ -245,47 +245,11 @@
     {
       "appID": "com.google.ios.youtube",
       "caption": "YTLite updated to 20.44.2",
-      "date": "2025-11-05",
+      "date": "2025-10-14",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "e22a41",
       "title": "YTLite v5.2b3 + Tweaks - 5th November 2025"
-    },
-    {
-      "appID": "com.burbn.instagram",
-      "caption": "InstaMulti updated to 404.0.0",
-      "date": "2025-10-29",
-      "identifier": "new-update",
-      "notify": true,
-      "tintColor": "C13584",
-      "title": "InstaMulti Latest - 29th October 2025"
-    },
-    {
-      "appID": "com.spotify.client",
-      "caption": "EeveeSpotify updated to 9.0.91",
-      "date": "2025-11-02",
-      "identifier": "new-update",
-      "notify": true,
-      "tintColor": "1DB954",
-      "title": "EeveeSpotify Latest - 2nd November 2025"
-    },
-    {
-      "appID": "com.mojang.minecraftpe",
-      "caption": "Minecraft updated to 1.21.101",
-      "date": "2025-08-25",
-      "identifier": "new-update",
-      "notify": true,
-      "tintColor": "996747",
-      "title": "Minecraft Latest - 25th August 2025"
-    },
-    {
-      "appID": "com.unofficial.balatro",
-      "caption": "Balatro updated to 1.0.1o",
-      "date": "2025-02-26",
-      "identifier": "new-update",
-      "notify": true,
-      "tintColor": "6b06c9",
-      "title": "Balatro Latest - 26th February 2025"
     },
     {
       "appID": "com.google.ios.youtubemusic",
